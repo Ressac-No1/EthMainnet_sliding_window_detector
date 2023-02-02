@@ -1,0 +1,32 @@
+38083955769502381802167832 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][2] <- 38084895274690692112326145
+0 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][<0, 0x66b4e3fd68ebb6c2229ce4ab86a536481091ceb5, 0>] <- 939505188310310158313
+Error: out of gas
+1000000000000000000000 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0x66b4e3fd68ebb6c2229ce4ab86a536481091ceb5, 0>] <- 0
+953425481063944291802697 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0xacd43e627e64355f1861cec6d3a6688b31a6f952, 0>] <- 954425481063944291802697
+999999999999000000000000000000 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<<3, 0x66b4e3fd68ebb6c2229ce4ab86a536481091ceb5, 0>, 0xacd43e627e64355f1861cec6d3a6688b31a6f952, 0>] <- 999999998999000000000000000000
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas

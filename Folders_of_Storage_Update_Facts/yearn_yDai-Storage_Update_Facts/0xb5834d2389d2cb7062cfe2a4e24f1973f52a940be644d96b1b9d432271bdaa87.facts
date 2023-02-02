@@ -1,0 +1,32 @@
+Error: execution reverted
+Reverted
+3121900000000000000000 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][<0, 0x96f4da61ee795f9f4a5cf0daadcc336adc73232a, 0>] <- 0
+0 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][<0, 0xc5b49abf8b164472be9486767af6b1a5586b5609, 0>] <- 0
+79228162514260000000000000000 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][<<1, 0x96f4da61ee795f9f4a5cf0daadcc336adc73232a, 0>, 0xc5b49abf8b164472be9486767af6b1a5586b5609, 0>] <- 79228159392360000000000000000
+5537102449687119799748258 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][2] <- 5533980549687119799748258
+Error: execution reverted
+Reverted
+0 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0xc5b49abf8b164472be9486767af6b1a5586b5609, 0>] <- 0
+138830318452305954472979 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0xacd43e627e64355f1861cec6d3a6688b31a6f952, 0>] <- 135244057495526856888062
+None <- [0x6b175474e89094c44da98b954eedeac495271d0f][<<3, 0xc5b49abf8b164472be9486767af6b1a5586b5609, 0>, 0xdef1c0ded9bec7f1a1670819833240f027b25eff, 0>] <- 0
+0 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0x22f9dcf4647084d6c31b2765f6910cd85c178c18, 0>] <- 3586260956779097584917
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted

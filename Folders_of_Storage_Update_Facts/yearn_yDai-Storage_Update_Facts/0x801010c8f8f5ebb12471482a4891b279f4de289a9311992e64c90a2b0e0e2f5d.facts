@@ -1,0 +1,18 @@
+Error: execution reverted
+Reverted
+26044253077584913981 <- [0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2][<3, 0x9799b475dec92bd99bbdd943013325c36157f383, 0>] <- 1
+1 <- [0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2][<3, 0xa084ad53abd303a90482aede702ba23f1596acdd, 0>] <- 26044253077584913981
+Error: execution reverted
+Reverted
+22310683959 <- [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48][<9, 0x9799b475dec92bd99bbdd943013325c36157f383, 0>] <- 1
+1 <- [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48][<9, 0xa084ad53abd303a90482aede702ba23f1596acdd, 0>] <- 22310683959
+Error: execution reverted
+Reverted
+33000000000 <- [0xdac17f958d2ee523a2206206994597c13d831ec7][<2, 0x9799b475dec92bd99bbdd943013325c36157f383, 0>] <- 1
+1 <- [0xdac17f958d2ee523a2206206994597c13d831ec7][<2, 0xa084ad53abd303a90482aede702ba23f1596acdd, 0>] <- 33000000000
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted
+Error: execution reverted
+Reverted

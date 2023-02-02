@@ -1,0 +1,9 @@
+Potential attacking detected at txn #1222, time: 2020-09-14 00:44:00, hash: 0x8ceb6fbb89f4822ebef105e4d77c919b8067969b6b97d53690c56334956dd00c, alert level: 0.3245301766204707
+Potential attacking detected at txn #1229, time: 2020-09-14 01:38:09, hash: 0x2f2346d50e3f2c3f2eb20c8c9a1fa08a2aba2d3045dc8bc8f3537b44f5f4c1ee, alert level: 0.32528399428788246
+Potential attacking detected at txn #1232, time: 2020-09-14 01:42:01, hash: 0xaf9f6526615449ac769df6e89578727d9fc66efb3ae69d757c971e31d4a9160a, alert level: 0.3253804531284996
+Potential attacking detected at txn #1296, time: 2020-09-15 08:47:30, hash: 0x1f19b5093eb598f29c6f1e6355c23b1eb6d5d243dc75d96b54b1d39c2dfe9d24, alert level: 0.3439128564340047
+Potential attacking detected at txn #1297, time: 2020-09-15 08:57:01, hash: 0x6d31adbe9becc860052f9d784ea4d9aa029d2287882d7a086c403ca867ea7b8a, alert level: 0.42208301458523406
+Potential attacking detected at txn #1465, time: 2020-09-20 15:01:12, hash: 0xeae00d869fb5983b3520220caf932c0a9b69f884513a27bdb6a57d10ca0eeba2, alert level: 0.45329428710375586
+Potential attacking detected at txn #1467, time: 2020-09-20 15:41:20, hash: 0x76fedfccc17fd5e8178fd7fe6349830db3044b23afa2b5b9fdf2fb7b3b7555a4, alert level: 0.575242006081789
+Potential attacking detected at txn #2340, time: 2020-11-12 12:04:37, hash: 0x3db8d4618aa3b97eeb3af01f01692897d14f2da090d5d6407f550a1b10c15133, alert level: 0.7789711841154487
+Potential attacking detected at txn #2366, time: 2020-12-04 00:22:07, hash: 0x9582b0cbd22bab9d574eb29e63f5a4fd89a200b301851c8e805c47f55097b47b, alert level: 0.8447288375401066

@@ -1,0 +1,29 @@
+0 <- [0x10a0847c2d170008ddca7c3a688124f493630032][<<2, 0xf9c5c00201067a5f9baa19271e11c7b685fa5dd4, 1>, b0x4b881e23d824fa94402e75f98b2bcdbde55f9b3e1e426e9ba12665e7a5d28cd0, 0>] <- 1
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+3877500000000000000000 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0xf9c5c00201067a5f9baa19271e11c7b685fa5dd4, 0>] <- 0
+0 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<<3, 0xf9c5c00201067a5f9baa19271e11c7b685fa5dd4, 0>, 0xacd43e627e64355f1861cec6d3a6688b31a6f952, 0>] <- 0
+1009062229979909700489245 <- [0x6b175474e89094c44da98b954eedeac495271d0f][<2, 0xacd43e627e64355f1861cec6d3a6688b31a6f952, 0>] <- 1012939729979909700489245
+Error: out of gas
+16559549940741072795608192 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][2] <- 16563034529057197832258684
+5860203541426524691311 <- [0xacd43e627e64355f1861cec6d3a6688b31a6f952][<0, 0xf9c5c00201067a5f9baa19271e11c7b685fa5dd4, 0>] <- 9344791857551561341803
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas
+Error: out of gas

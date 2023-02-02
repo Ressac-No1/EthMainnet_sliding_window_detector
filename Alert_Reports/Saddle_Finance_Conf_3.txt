@@ -1,0 +1,13 @@
+Potential attacking detected at txn #1761, time: 2021-11-01 12:56:12, hash: 0xbcf9cfd94027e568d4a4d8a3c6e5797ff1f8d0f5764fedd6257a97fabebec38b, alert level: 0.6092044584409013
+Potential attacking detected at txn #2173, time: 2021-11-16 23:46:13, hash: 0xb46132e93143af94e582900c5b16d9218f47405cf5ff5baf8a3ae8af67e9805d, alert level: 0.90921286645152
+Potential attacking detected at txn #2176, time: 2021-11-16 23:47:28, hash: 0x2894d55afc26da907fc615dfed09be165603a439e7e57ff52049da5e51ca7818, alert level: 1.0528440542755
+Potential attacking detected at txn #3102, time: 2021-11-28 11:43:49, hash: 0x10cd30c17113e92f415c5dd2c15dc3fa325a6802473b021c49d4a9a67093a4dd, alert level: 1.143790970012082
+Potential attacking detected at txn #3104, time: 2021-11-28 11:43:49, hash: 0xc757ff293c28b6036b0f40a87ecde6ebda980f84455b08445f0765f30a66248b, alert level: 1.1721341445789764
+Potential attacking detected at txn #3107, time: 2021-11-28 11:44:15, hash: 0xae93ab2f2889e10e6d3a9b1d0820eb53de9803190ab0091115d538e6e2bcdb70, alert level: 1.193473918186276
+Potential attacking detected at txn #3108, time: 2021-11-28 11:45:04, hash: 0xff5c113539e1fe7ca35f7a44aca0130e375698ec65baeb9fd3e9945952c27f74, alert level: 1.230413682389473
+Potential attacking detected at txn #3114, time: 2021-11-28 12:25:36, hash: 0xb51cb331499cee081d96d119ccfc1e12eb7580f635dd2e7456741f38ef05cfaa, alert level: 1.237156845952428
+Potential attacking detected at txn #3116, time: 2021-11-28 12:46:23, hash: 0x7d3f775f4e0c961a71187c0d6e3ca707bca142e2f35b4706eb2a8eb132eadabd, alert level: 1.2997650662094111
+Potential attacking detected at txn #3120, time: 2021-11-28 13:14:55, hash: 0x299cc347e6ecf4b7721e28c2117272239e5115b5c24921644ed0789288341d41, alert level: 1.3439551840755897
+Potential attacking detected at txn #3123, time: 2021-11-28 14:31:51, hash: 0x240b7eebc55292612d6776e44388c82d2caba00af02da520e7da85e5d2022854, alert level: 1.3537573900324193
+Potential attacking detected at txn #3808, time: 2022-01-07 02:20:29, hash: 0x8d38c3f905cecd8bb1cd2f8d1d974f7ab1e2178df8e850c163ad1be8991f3482, alert level: 1.8219470633962078
+Potential attacking detected at txn #3810, time: 2022-01-07 09:18:02, hash: 0x8aedb15152be3c892d0eea3e5b9e9c9508ec614a6f8330acf2addf5ad58f74cb, alert level: 2.0815973052298653

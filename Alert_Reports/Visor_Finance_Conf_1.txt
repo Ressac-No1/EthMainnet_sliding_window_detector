@@ -1,0 +1,3 @@
+Potential attacking detected at txn #1629, time: 2021-12-10 08:17:58, hash: 0xd25041185f3656a6f6af20d03e4f7c1b834f48259492dd427ba109d4b2c66c5a, alert level: 0.6107428980924867
+Potential attacking detected at txn #1632, time: 2021-12-10 12:37:33, hash: 0x6a140a6a24e1218d809bfcd9f76bf88fba971007faefa68036635a184b748575, alert level: 0.6227031349616667
+Potential attacking detected at txn #1638, time: 2021-12-10 23:04:39, hash: 0x165d7261c857dbe7109d41f67936f146f9a5be1abc146facc91745e3b4227038, alert level: 0.6312693003464618
